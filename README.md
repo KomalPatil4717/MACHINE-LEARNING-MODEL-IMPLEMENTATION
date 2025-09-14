@@ -96,6 +96,7 @@ Classification report with precision, recall, and F1-score.
 
 Graphs showing distribution of spam vs ham messages.
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f55b9173-edb9-4bc4-8ea7-08a1238044d6" />
 
 ## Future Scope
 
